@@ -1,0 +1,6 @@
+{
+	"source": "./",
+	"excludes": ["node_modules", "esdoc"],
+	"access": ["public", "private"],
+	"destination": "esdoc"
+}

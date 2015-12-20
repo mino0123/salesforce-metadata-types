@@ -1,0 +1,25 @@
+{
+  "name": "salesforce-metadata-types",
+  "version": "0.1.0",
+  "description": "Parse Salesforce.com metadata WSDL and return type definitions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mino0123/salesforce-metadata-types.git"
+  },
+  "author": "Yuta Minowa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mino0123/salesforce-metadata-types/issues"
+  },
+  "homepage": "https://github.com/mino0123/salesforce-metadata-types#readme",
+  "dependencies": {
+    "node-xml-lite": "0.0.6"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0"
+  }
+}
